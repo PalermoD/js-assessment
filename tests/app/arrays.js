@@ -7,7 +7,7 @@ describe('arrays', function() {
   var a;
 
   beforeEach(function() {
-    a = [ 1, 2, 3, 4 ];
+    a = [ 1, 2, 3, 4];
   });
 
   it('you should be able to determine the location of an item in an array', function() {
